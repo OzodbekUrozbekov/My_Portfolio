@@ -56,7 +56,7 @@ section{
   min-height: 50vh;
   display: flex;
   align-items: center;
-  background: url(IMG_20230923_160124_720.jpg) no-repeat;
+  background: url(/IMG_20230923_160124_720.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-image: fixed;
